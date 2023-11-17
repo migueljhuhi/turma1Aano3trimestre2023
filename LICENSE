@@ -1,21 +1,23 @@
-MIT License
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+		<meta charset="UTF-8">
+		<link rel="stylesheet" href="style.css">
+        <title></title> Zumbi dos Palmares
+    </head>
 
-Copyright (c) 2023 migueljhuhi
+    <body>
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+<h1 id="titulo">  Zumbi dos Palmares </h1>
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/zumbi_dos-palamres 1995.jpg/200px_1995.jpg" alt="Grupo de Formadores PC EM">
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+<p class="texto">umbi dos Palmares nasceu em 1655, no estado de Alagoas. Ícone da resistência negra à escravidão, liderou o Quilombo dos Palmares, comunidade livre formada por escravos fugitivos das fazendas no Brasil Colonial. Localizado na região da Serra da Barriga, atualmente integra o município alagoano de União dos Palmares.
+
+Embora tenha nascido livre, Zumbi foi capturado aos sete anos de idade e entregue a um padre católico, do qual recebeu o batismo e foi nomeado Francisco. Aprendeu a língua portuguesa e a religião católica, chegando a ajudar o padre nas celebrações de missas. Porém, aos 15 anos, voltou a viver no quilombo, pelo qual lutou até a morte, em 1695.
+
+Zumbi é considerado um dos grandes líderes de nossa história. Símbolo da luta contra a escravidão, lutou também pela liberdade de culto religioso e pela prática da cultura africana no País. O dia de sua morte, 20 de novembro, é lembrado e comemorado em todo o território nacional como o Dia da Consciência Negra.
+
+
+    </body>
+</html>
