@@ -1,23 +1,14 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-    <head>
-		<meta charset="UTF-8">
-		<link rel="stylesheet" href="style.css">
-        <title></title> Zumbi dos Palmares
-    </head>
+body { 
+    background-color: #ffaa00;
+}
 
-    <body>
+#titulo {
+  font-size: 50px;
+    text-align: center;
+}
 
-<h1 id="titulo">  Zumbi dos Palmares </h1>
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/zumbi_dos-palamres 1995.jpg/200px_1995.jpg" alt="Grupo de Formadores PC EM">
-
-<p class="texto">umbi dos Palmares nasceu em 1655, no estado de Alagoas. Ícone da resistência negra à escravidão, liderou o Quilombo dos Palmares, comunidade livre formada por escravos fugitivos das fazendas no Brasil Colonial. Localizado na região da Serra da Barriga, atualmente integra o município alagoano de União dos Palmares.
-
-Embora tenha nascido livre, Zumbi foi capturado aos sete anos de idade e entregue a um padre católico, do qual recebeu o batismo e foi nomeado Francisco. Aprendeu a língua portuguesa e a religião católica, chegando a ajudar o padre nas celebrações de missas. Porém, aos 15 anos, voltou a viver no quilombo, pelo qual lutou até a morte, em 1695.
-
-Zumbi é considerado um dos grandes líderes de nossa história. Símbolo da luta contra a escravidão, lutou também pela liberdade de culto religioso e pela prática da cultura africana no País. O dia de sua morte, 20 de novembro, é lembrado e comemorado em todo o território nacional como o Dia da Consciência Negra.
-
-
-    </body>
-</html>
+.texto {
+    text-align: center;
+ font-size: 25px;
+    color:rgb(255, 0, 179);
+}
